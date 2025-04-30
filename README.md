@@ -2,7 +2,7 @@
 
 🎓 MS in Software Engineering Systems, Northeastern University (Apr 2024)  
 🌆 Based in Boston, MA | 💻 Passionate about Frontend Development, Full-Stack Engineering & Fintech  
-📫 Reach me: patel.devki1@northeastern.edu | 📱 301.979.5975  
+📫 Reach me: devkip8112@gmail.com | 📱 301.979.5975  
 🔗 [LinkedIn](https://linkedin.com/in/pateldevki) | [GitHub](https://github.com/Devkip8112)
 
 ---
